@@ -10,7 +10,7 @@ that's are not supported in early OS versions like Windows 7 .
 * Method 01:
 Tested on IntelliJ IDEA Community Edition 2022.1 and Android Studio Dolphin. 
 
-1- Update your github-copilot to the latest version (1.1.27.1708) then close the IDE
+1- Update your github-copilot to the latest version (1.1.32.1956) then close the IDE
 
 2- Download this version of github-copilot (1.1.28.1744):
    https://plugins.jetbrains.com/plugin/download?rel=true&updateId=190492 and Extract it
