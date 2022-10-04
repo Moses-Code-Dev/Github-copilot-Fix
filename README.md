@@ -37,7 +37,7 @@ Tested on IntelliJ IDEA Community Edition 2022.1 and Android Studio Dolphin.
     - Right click on "core-1.1.28" in the same folder
     - Open archive 
     - Navigate to "com\github\copilot\lang\agent\" 
-    - Replace CopilotAgent.class with the downloaded one 
+    - Replace CopilotAgent.class with above file
 
   That's is all, copilot should work now.
   
