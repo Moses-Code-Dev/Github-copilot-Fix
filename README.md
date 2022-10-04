@@ -1,5 +1,5 @@
 # Github-copilot-Fix
-Github copilot solution (workaround) for "Failed to launch GitHub login process. Please try again".
+Github copilot solution (workaround) for "Failed to initiate the GitHub login process. Please try again.".
 
 Explanation:
 * After some research, it seems that the problem is related to the version of the Node js installed in the operating system.
@@ -59,7 +59,7 @@ Tested on IntelliJ IDEA Community Edition 2022.1 and Android Studio Dolphin.
 
 5- Restart your machine, so explore and cmd will get the fresh set of variables.
 
-6 "Failed to launch GitHub login" message will disappear, but this method will throw new errors in some Operating systems.
+6 "Failed to initiate the GitHub login process." message will disappear, but this method will throw new errors in some Operating systems.
 
 
 ** For new Os versions, if this two methods does not work for you, 
