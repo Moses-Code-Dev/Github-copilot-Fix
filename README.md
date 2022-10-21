@@ -1,5 +1,22 @@
 # Github-copilot-Fix
+
 Github copilot solution (workaround) for "Failed to initiate the GitHub login process. Please try again.".
+
+[Chinses(Traditional) version in my Blog](https://blog.typeart.cc/signin-copilot-in-intellij-in-company-network/)
+
+## I've done the steps and upload those two files: applicationinsights-core-2.6.4, core-1.1.28
+
+Here is the simplified steps to do the same work.
+
+1. Update your github-copilot to the latest version (currently 1.1.32.1956) or install it then close the IDE.
+2. Download those two files in repository: `applicationinsights-core-2.6.4.jar`, `core-1.1.28.jar`.
+3. Put those two files into `%appdata%\JetBrains\IntelliJIdea2022.2\plugins\github-copilot-intellij\lib`
+   - If you are using another jetbrain product such as WebStorm, PyCharm or any other else, rememeber to change the path to your IDE name.
+   - If you don't know the exactly path, you can just type `%appdata%` in explorer and navigate to it.
+4. Rename `core-1.1.33.jar` to `core-1.1.33.jar_`. For backup and not to be loaded by copilot.
+5. Open the IDE and try to sign in your github copilot. copilot should work now.
+
+## Original post
 
 Explanation:
 * After some research, it seems that the problem is related to the version of the Node js installed in the operating system.
