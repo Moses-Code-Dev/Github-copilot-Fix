@@ -2,7 +2,7 @@
 
 Github copilot solution (workaround) for "Failed to initiate the GitHub login process. Please try again.".
 
-[Chinses(Traditional) version in my Blog](https://blog.typeart.cc/signin-copilot-in-intellij-in-company-network/)
+[Chinses(Traditional) version (https://blog.typeart.cc/signin-copilot-in-intellij-in-company-network/)
 
 ## I've done the steps and upload those two files: applicationinsights-core-2.6.4, core-1.1.28
 
